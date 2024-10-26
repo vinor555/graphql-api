@@ -1,0 +1,26 @@
+{
+  "name": "graphql-api",
+  "version": "1.0.0",
+  "description": "A complex GraphQL API with authentication and authorization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "Kevin Cruz",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.7.0",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "graphql": "^16.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {
+    "jest": "^27.2.5",
+    "supertest": "^6.1.6"
+  }
+}
