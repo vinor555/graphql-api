@@ -27,7 +27,7 @@ Before running the project, make sure you have the following installed on your m
 ### 1. Clone the Repository
 
 ```bash
-git clone https://kevin555@bitbucket.org/kevin555/graphql-api.git
+git clone https://kevin555@bitbucket.org/kevin555/graphql-api.git o git clonehttps://github.com/vinor555/graphql-api.git
 cd graphql-api
 ```
 
